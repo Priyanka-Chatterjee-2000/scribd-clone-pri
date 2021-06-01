@@ -1,5 +1,5 @@
 import React from 'react'
-import MenuIcon from '@material-ui/icons/Menu';
+
 import '../navbar.css'
 import scribd from '../assets/x.svg'
 import { Nav, Navbar } from 'react-bootstrap';
