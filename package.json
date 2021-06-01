@@ -1,8 +1,8 @@
 {
-  "homepage": " https://github.com/Priyanka-Chatterjee-2000/scribd-clone-pri",
+  "homepage": " https://Priyanka-Chatterjee-2000/github.io/scribd-clone-pri",
   "name": "scribd-clone",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
   "dependencies": {
     "@testing-library/jest-dom": "^5.12.0",
     "@testing-library/react": "^11.2.6",
