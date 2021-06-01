@@ -1,0 +1,30 @@
+.case_main{
+    color:black;
+    background:white ;
+    text-align: center;
+    margin:4%;
+    min-height: 500px;
+    width:90%
+}
+
+.books img {
+    margin: 3px;
+    padding: 5px;
+    height: 150px;
+    width: 100px;
+}
+.btnM{
+    font-size: 18px;
+    margin: 70px 0px 8px;
+    width: 230px;
+    color: white;
+    font-weight: 700;
+    padding: 10px 5px;
+    background: var(--main-color);
+    border: 2px solid #FFFFFF;
+    cursor: pointer;
+    border-radius: 5px;
+}
+.btnM:hover{
+    background-color:#00293f;
+}
